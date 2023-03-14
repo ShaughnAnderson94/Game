@@ -1,0 +1,20 @@
+#wrapper{
+    display: flex;
+    flex-wrap: wrap;
+justify-content: center;
+border: solid black 30px;
+align-items: center;
+}
+.gameSquares{
+display: inline;
+font-size: 80px;
+padding: 20px;
+}
+#PlayAgain{display: none;}
+#tttbox{
+
+    width: 900px;
+    margin: auto;
+    text-align: center;
+
+}
